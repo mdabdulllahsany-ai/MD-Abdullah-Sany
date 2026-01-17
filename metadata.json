@@ -1,0 +1,7 @@
+{
+  "name": "MD Abdullah Sany - Premium Portfolio",
+  "description": "A high-end, futuristic portfolio for MD Abdullah Sany featuring AI-powered interactions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
